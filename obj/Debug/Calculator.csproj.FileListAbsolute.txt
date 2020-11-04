@@ -1,0 +1,16 @@
+C:\Users\Isaac\git\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Isaac\git\Calculator\bin\Debug\Calculator.exe
+C:\Users\Isaac\git\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Isaac\git\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Isaac\git\Calculator\obj\Debug\App.g.cs
+C:\Users\Isaac\git\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+C:\Users\Isaac\git\Calculator\obj\Debug\Calculator_MarkupCompile.lref
+C:\Users\Isaac\git\Calculator\obj\Debug\Calculator.g.resources
+C:\Users\Isaac\git\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Isaac\git\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Isaac\git\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Isaac\git\Calculator\obj\Debug\Calculator.exe
+C:\Users\Isaac\git\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Isaac\git\Calculator\obj\Debug\View\MainWindow.g.cs
+C:\Users\Isaac\git\Calculator\obj\Debug\View\MainWindow.baml
+C:\Users\Isaac\git\Calculator\obj\Debug\App.baml
